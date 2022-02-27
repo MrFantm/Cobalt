@@ -1,12 +1,11 @@
 # Cobalt
 Cobalt is a project I'm currently working on to replicate and simulate a digital society and economy. 
 I am by no means a professional, this is just something that I'm working on in my free time. It's more of a learning tool for myself than anything else.
-If you have any 
+If you have any questions or comments you can shoot me an email at: mrfantom7655@gmail.com
 You're free to download this if you want but please do not distribute it to anyone else, Lead them to this git page.
 
 # NOTE!
-When you download the project move it to C:\Program Files! You must do this manually for now until I write a program to do it for you.
-If it's not in that directory it won't work properly, as I stated before, I am far from a professional so for now the Directories are hardcoded in the script.
+I haven't uploaded the project yet, I'm still polishing it up a bit more!
 
 # Current Features
 
@@ -24,9 +23,3 @@ If it's not in that directory it won't work properly, as I stated before, I am f
 - Customizable attributes such as day length, console color, custom names, starting money in the economy, and other attributes of the simulation.
 - Age specific actions. i.e A 1 year old isn't going to "Be looking at colleges" lol.
 - Some other random stuff that I'm gonna keep secret for the time, some of them are pretty interesting and I wouldn't want to spoil it!
-
-# Other Notes
-Please don't mock my script... It's messy and could be simlified but I'm in the process of cleaning it up and optimizing it, I just wanted to get it working first.
-And don't expect it to be some kind of super program that is super detailed and intricate, I literally whipped this bad boy up in a few days so don't expect much when looking at the code, there will be many "Why is that there?" or "What on earth does this do?".
-
-Basically look at your own risk :)
