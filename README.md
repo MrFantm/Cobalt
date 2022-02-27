@@ -27,4 +27,6 @@ If it's not in that directory it won't work properly, as I stated before, I am f
 
 # Other Notes
 Please don't mock my script... It's messy and could be simlified but I'm in the process of cleaning it up and optimizing it, I just wanted to get it working first.
-And don't expect it to be some kind of super program that is super detailed and intricate, I literally whipped this bad boy up in a few days.   
+And don't expect it to be some kind of super program that is super detailed and intricate, I literally whipped this bad boy up in a few days so don't expect much when looking at the code, there will be many "Why is that there?" or "What on earth does this do?".
+
+Basically look at your own risk :)
