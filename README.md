@@ -8,6 +8,11 @@ You're free to download this if you want but please do not distribute it to anyo
 When you download the project move it to C:\Program Files! You must do this manually for now until I write a program to do it for you.
 If it's not in that directory it won't work properly, as I stated before, I am far from a professional so for now the Directories are hardcoded in the script.
 
+
+# Other Notes
+Please don't mock my script... It's messy and could be simlified but I'm in the process of cleaning it up and optimizing it, I just wanted to get it working first.
+And don't expect it to be some kind of super program that is super detailed and intricate, I literally whipped this bad boy up in a few days.   
+
 # Current Features
 
 - You can create an AI manually or run the simulation to- well simulate the the society.
