@@ -1,0 +1,11 @@
+!create : Creates a new AI manually with random attributes.                      
+!age up : Increases every active AI's age by 1.
+!review : Review a deceased AI's life.
+!list : Creates an AI hierarchy with integers assigned to each bot.
+!view : View an AI from the hierarchy with the corresponding integer.
+!list deceased : Lists all the deceased AI on your machine.
+!play : Plays the AI simulation.
+!clear : Clears the console, Only recommended as a method of restart.
+!kill : Kills an AI with a given name.
+!settings : View/Edit settings such as day intervals and colors.
+!exit or !quit : Exits the Program.
