@@ -14,7 +14,6 @@ You can find the downloads on the [realease](https://github.com/MrCryptoFantom/C
 -----------------------------------
 All you'll need to do is find your version in the [realease](https://github.com/MrCryptoFantom/Cobalt/releases) page. Download the zip folder that looks similar to: **"project-cobalt.v0.0.5.Stable.zip"**. Extract the .zip folder, and take your newly extracted folder to your "**Cobalt/builds**" file on your PC (ex C:/Cobalt/builds).
 
-I haven't finished project yet, I'm still polishing it up a bit more! I still have A LOT to do so don't judge this as the finished product just yet!
 
 
 # Current Features
@@ -26,6 +25,8 @@ I haven't finished project yet, I'm still polishing it up a bit more! I still ha
 - View a bot at anytime either by visiting the files and manually openeing their .cbinfo files, or viewing them with the !view command in the console.
 - Random news articles from the virtual day appear every once and a while. Each day is 10 seconds long and each year is a little over an hour, this too is hardcoded in   the game files for the time being.
 - Bots can now own houses, if the male bot has a house when a marriage is initiated, the female with move her current house to his. All children produced from the marriage will also share the parents house.
+
+I haven't finished project yet, I'm still polishing it up a bit more! I still have A LOT to do so don't judge this as the finished product just yet!
 
 # Planned Features
 
