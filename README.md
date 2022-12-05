@@ -5,7 +5,7 @@ If you have any questions or comments you can shoot me an email at: mrfantom7655
 You're free to download this if you want but please do not distribute it to anyone else, Lead them to this git page.
 
 # NOTE!
-I haven't uploaded the project yet, I'm still polishing it up a bit more!
+I haven't finished project yet, I'm still polishing it up a bit more! I still have A LOT to do so don't jusge this as the finished product just yet!
 
 # Current Features
 
