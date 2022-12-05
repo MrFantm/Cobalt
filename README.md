@@ -4,8 +4,15 @@ I am by no means a professional, this is just something that I'm working on in m
 If you have any questions or comments you can shoot me an email at: mrfantom7655@gmail.com
 You're free to download this if you want but please do not distribute it to anyone else, Lead them to this git page.
 
-# NOTE!
-When you download this 
+# Installation Intructions
+
+**New Installation**
+-----------------------------------
+You can find the downloads on the [realease](https://github.com/MrCryptoFantom/Cobalt/releases) page. Find the newest version and download the **"Cobalt.zip"** file. Once you've downloaded the .zip file, then extract it. Next you move that "Cobalt" folder to your desired directory. I recommend your (C:) Drive but the choice is yours!
+
+**Updating Version**
+-----------------------------------
+All you'll need to do is find your version in the [realease](https://github.com/MrCryptoFantom/Cobalt/releases) page. Download the zip folder that looks similar to: **"project-cobalt.v0.0.5.Stable.zip"**. Extract the .zip folder, and take your newly extracted folder to your "**Cobalt/builds**" file on your PC (ex C:/Cobalt/builds).
 
 I haven't finished project yet, I'm still polishing it up a bit more! I still have A LOT to do so don't judge this as the finished product just yet!
 
