@@ -1,0 +1,18 @@
+                                                                                                                     
+               v0.0.5 Patch Notes                                                                                    
+-------------------------------------------------------                                                              
+                                                                                                                     
+- Reworked the file reading system, the program can now run in any directory without errors.                         
+                                                                                                                     
+- Added Basic Economy functions such as Tax Collection.                                                              
+                                                                                                                     
+- New Commands to have better control over your bots.                                                                
+                                                                                                                     
+- Added a new icon.                                                                                                  
+                                                                                                                     
+- Added a the ability to view deceased AI from a hierarchy the same as you can with living AI.                       
+                                                                                                                     
+- Added the ability to add funds to an AI's bank balance directly through the console.                               
+                                                                                                                     
+- Added auto Tax Collection when the simulation is running.                                                          
+                                                                                                                     

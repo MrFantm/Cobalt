@@ -1,0 +1,144 @@
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.exe
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.deps.json
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.json
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.dev.json
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.dll
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\ref\cobalt_Run.dll
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.pdb
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csprojAssemblyReference.cache
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfoInputs.cache
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfo.cs
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.CoreCompileInputs.cache
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.dll
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\ref\cobalt_Run.dll
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.pdb
+C:\Users\Rattl\Desktop\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.genruntimeconfig.cache
+C:\Program Files\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.exe
+C:\Program Files\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfoInputs.cache
+C:\Program Files\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfo.cs
+C:\Program Files\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.CoreCompileInputs.cache
+C:\Program Files\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.dll
+C:\Program Files\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\ref\cobalt_Run.dll
+C:\Program Files\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.pdb
+C:\Program Files\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.deps.json
+C:\Program Files\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.json
+C:\Program Files\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.dev.json
+C:\Program Files\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.dll
+C:\Program Files\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\ref\cobalt_Run.dll
+C:\Program Files\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.pdb
+C:\Program Files\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.genruntimeconfig.cache
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.exe
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.deps.json
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.json
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.dev.json
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.dll
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\ref\cobalt_Run.dll
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\bin\Debug\net5.0\cobalt_Run.pdb
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.AssemblyReference.cache
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfoInputs.cache
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfo.cs
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.CoreCompileInputs.cache
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.dll
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\ref\cobalt_Run.dll
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.pdb
+D:\Other\Other Stuff\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.genruntimeconfig.cache
+C:\Program Files\project-cobalt.main\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.AssemblyReference.cache
+C:\Program Files\project-cobalt\cobalt_Run\bin\Debug\net5.0\cobalt_Run.exe
+C:\Program Files\project-cobalt\cobalt_Run\bin\Debug\net5.0\cobalt_Run.deps.json
+C:\Program Files\project-cobalt\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.json
+C:\Program Files\project-cobalt\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.dev.json
+C:\Program Files\project-cobalt\cobalt_Run\bin\Debug\net5.0\cobalt_Run.dll
+C:\Program Files\project-cobalt\cobalt_Run\bin\Debug\net5.0\ref\cobalt_Run.dll
+C:\Program Files\project-cobalt\cobalt_Run\bin\Debug\net5.0\cobalt_Run.pdb
+C:\Program Files\project-cobalt\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.AssemblyReference.cache
+C:\Program Files\project-cobalt\cobalt_Run\obj\Debug\net5.0\cobalt_Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\project-cobalt\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfoInputs.cache
+C:\Program Files\project-cobalt\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfo.cs
+C:\Program Files\project-cobalt\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.CoreCompileInputs.cache
+C:\Program Files\project-cobalt\cobalt_Run\obj\Debug\net5.0\cobalt_Run.dll
+C:\Program Files\project-cobalt\cobalt_Run\obj\Debug\net5.0\ref\cobalt_Run.dll
+C:\Program Files\project-cobalt\cobalt_Run\obj\Debug\net5.0\cobalt_Run.pdb
+C:\Program Files\project-cobalt\cobalt_Run\obj\Debug\net5.0\cobalt_Run.genruntimeconfig.cache
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.exe
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.deps.json
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.json
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.dev.json
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.dll
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\ref\cobalt_Run.dll
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.pdb
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.AssemblyReference.cache
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfoInputs.cache
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfo.cs
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.CoreCompileInputs.cache
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.dll
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\ref\cobalt_Run.dll
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.pdb
+D:\Projects\Cobalt\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.genruntimeconfig.cache
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.exe
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.deps.json
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.json
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.dev.json
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.dll
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\ref\cobalt_Run.dll
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.pdb
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.AssemblyReference.cache
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfoInputs.cache
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfo.cs
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.CoreCompileInputs.cache
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.dll
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\ref\cobalt_Run.dll
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.pdb
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.genruntimeconfig.cache
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.exe
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.deps.json
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.json
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.dev.json
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.dll
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\ref\cobalt_Run.dll
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\bin\Debug\net5.0\cobalt_Run.pdb
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.AssemblyReference.cache
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfoInputs.cache
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfo.cs
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.CoreCompileInputs.cache
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.dll
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\ref\cobalt_Run.dll
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.pdb
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5\cobalt_Run\obj\Debug\net5.0\cobalt_Run.genruntimeconfig.cache
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\cobalt_Run.exe
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\cobalt_Run.deps.json
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.json
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.dev.json
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\cobalt_Run.dll
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\ref\cobalt_Run.dll
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\cobalt_Run.pdb
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.AssemblyReference.cache
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfoInputs.cache
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfo.cs
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.CoreCompileInputs.cache
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.dll
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\ref\cobalt_Run.dll
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.pdb
+F:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.genruntimeconfig.cache
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\cobalt_Run.exe
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\cobalt_Run.deps.json
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.json
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\cobalt_Run.runtimeconfig.dev.json
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\cobalt_Run.dll
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\ref\cobalt_Run.dll
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\bin\Debug\net5.0\cobalt_Run.pdb
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.AssemblyReference.cache
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfoInputs.cache
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.AssemblyInfo.cs
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.csproj.CoreCompileInputs.cache
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.dll
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\ref\cobalt_Run.dll
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.pdb
+D:\Projects\Cobalt\builds\project-cobalt v0.0.5 Stable\cobalt_Run\obj\Debug\net5.0\cobalt_Run.genruntimeconfig.cache
