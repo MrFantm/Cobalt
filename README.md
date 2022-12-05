@@ -9,13 +9,13 @@ I haven't uploaded the project yet, I'm still polishing it up a bit more!
 
 # Current Features
 
-- You can create an AI manually or run the simulation to- well simulate the the society.
-- AIs have random names from a database I, painfully, put together with over 100 first and last names(for now).
-- AI can also get married, for now each marriage is saved in a new folder to prevent replication of family names.
-- There's no working economy fully implemented yet but bots can get jobs and earn money.
+- You can create a bot manually or run the simulation to- well simulate the society.
+- Bots have random names from a database I, painfully, put together with over 100 first and last names(for now).
+- Bots can also get married, for now each marriage is saved in a new folder to prevent replication of family names.
+- I haven't added all the economic features yet. But bots can get jobs, earn money, pay taxes, etc. 
 - View a bot at anytime either by visiting the files and manually openeing their .cbinfo files, or viewing them with the !view command in the console.
-- Random news articles from the virtual day appear every once and a while. Each day is 10 seconds long and each year is a little over an hour, this too is hardcoded in for the time being.
-- tbh it's kinda boring but I'm working on it, it's still interesting watching and reading the random events that each bot does/encounters every day lol
+- Random news articles from the virtual day appear every once and a while. Each day is 10 seconds long and each year is a little over an hour, this too is hardcoded in   the game files for the time being.
+- Bots can now own houses, if the male bot has a house when a marriage is initiated, the female with move her current house to his. All children produced from the marriage will also share the parents house.
 
 # Planned Features
 
